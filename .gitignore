@@ -1,0 +1,21 @@
+# Ignorar el entorno virtual
+yolov11x_env/
+
+# Ignorar caché de Python
+__pycache__/
+*.pyc
+*.pyo
+
+# Ignorar archivos grandes innecesarios
+*.dll
+*.lib
+*.pyd
+
+# Ignorar configuraciones locales
+.vscode/
+.env
+.DS_Store
+yolov11x_env/
+*.dll
+*.lib
+*.pyd
